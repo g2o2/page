@@ -1,7 +1,30 @@
 <!DOCTYPE html>
 <html>
-<head><title>G2O2 Soluciones Creativas</title></head>
-<body bgcolor="ff6c0c">
- <img src="contacto.gif"> 
-</body>
+	<head>
+		<title>G2O2 Soluciones Creativas</title>
+		<style>
+		body {
+			background-color: #ff6c0c;
+		}
+		p {
+			font-family: Lucida Console;
+			font-size: 20px;
+			color: white;
+		}
+		.blink{
+			color: black;
+		}
+		</style>
+		<script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+		<script src="jquery.blink.js"></script>
+
+		<script>
+			$(document).ready(function() {
+				$('.blink').blink();
+			});
+		</script>
+	</head>
+	<body>
+		<p>contacto@g2o2.com<br><span class="blink">_</span></p>
+	</body>
 </html>
