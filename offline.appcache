@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1477314325
+#1477389253
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -17,12 +17,24 @@ pos_2-sheet0.png
 pos_3-sheet0.png
 backbutton-sheet0.png
 sprite-sheet0.png
+playtittle-sheet0.png
+moduletittle_1-sheet0.png
+moduletittle_2-sheet0.png
+moduletittle_3-sheet0.png
+questtittle_1-sheet0.png
+questtittle_2-sheet0.png
+desctiptionquest_1-sheet0.png
+descriptionquest_2-sheet0.png
+facebookicon-sheet0.png
+twittericon-sheet0.png
+instagramicon-sheet0.png
+completetext-sheet0.png
 sprite2-sheet0.png
 sprite3-sheet0.png
 sprite4-sheet0.png
 sprite5-sheet0.png
-sprite6-sheet0.png
-sprite7-sheet0.png
+particles.png
+particles2.png
 icon-16.png
 icon-32.png
 icon-114.png
